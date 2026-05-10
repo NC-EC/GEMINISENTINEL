@@ -1,0 +1,6 @@
+{
+  "name": "CyberGemini Companion",
+  "description": "An AI-powered cybersecurity companion to assist in CTFs and security research by generating attack vectors, automation scripts, and documenting findings.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
